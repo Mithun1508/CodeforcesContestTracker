@@ -1,0 +1,46 @@
+header {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+#ongoing-contests,
+#contest-details {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+tbody td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+tbody td:last-child {
+  text-align: center;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
